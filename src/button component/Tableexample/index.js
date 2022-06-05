@@ -30,7 +30,6 @@ const Table = () => {
                 <Buttons
                   {...{
                     btnType: "primary",
-                    // leftIcon: <ImageComponent className="lefticon" src={images.imgupload} />,
                   }}
                 >
                   ok
@@ -50,7 +49,6 @@ const Table = () => {
                 <Buttons
                   {...{
                     btnType: "secondary",
-                    // leftIcon: <ImageComponent className="lefticon" src={images.imgupload} />,
                   }}
                 >
                   ok
@@ -58,7 +56,6 @@ const Table = () => {
               </div>
             </td>
             <td>
-              {" "}
               <div
                 style={{
                   width: "100%",
@@ -70,8 +67,6 @@ const Table = () => {
                 <Buttons
                   {...{
                     btnType: "link",
-
-                    // leftIcon: <ImageComponent className="lefticon" src={images.imgupload} />,
                   }}
                 >
                   ok
@@ -102,7 +97,6 @@ const Table = () => {
               </div>
             </td>
             <td>
-              {" "}
               <div
                 style={{
                   width: "100%",
@@ -122,7 +116,6 @@ const Table = () => {
               </div>
             </td>
             <td>
-              {" "}
               <div
                 style={{
                   width: "100%",
@@ -165,7 +158,6 @@ const Table = () => {
               </div>
             </td>
             <td>
-              {" "}
               <div
                 style={{
                   width: "100%",
@@ -289,7 +281,6 @@ const Table = () => {
               </div>
             </td>
             <td>
-              {" "}
               <div
                 style={{
                   width: "100%",
@@ -347,7 +338,6 @@ const Table = () => {
               </div>
             </td>
             <td>
-              {" "}
               <div
                 style={{
                   width: "100%",
@@ -371,7 +361,6 @@ const Table = () => {
           <tr>
             <td> disabled Button With Left Icon</td>
             <td>
-              {" "}
               <div
                 style={{
                   width: "100%",
@@ -392,7 +381,6 @@ const Table = () => {
               </div>
             </td>
             <td>
-              {" "}
               <div
                 style={{
                   width: "100%",
@@ -416,7 +404,6 @@ const Table = () => {
           <tr>
             <td> disabled Button With right Icon</td>
             <td>
-              {" "}
               <div
                 style={{
                   width: "100%",
@@ -437,7 +424,6 @@ const Table = () => {
               </div>
             </td>
             <td>
-              {" "}
               <div
                 style={{
                   width: "100%",
@@ -482,7 +468,6 @@ const Table = () => {
               </div>
             </td>
             <td>
-              {" "}
               <div
                 style={{
                   width: "100%",
@@ -525,7 +510,6 @@ const Table = () => {
               </div>
             </td>
             <td>
-              {" "}
               <div
                 style={{
                   width: "100%",
